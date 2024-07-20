@@ -1,5 +1,3 @@
-import React from 'react';
-
 const SvgCard = () => (
    <svg className="loader__svg" fill="#ffffff" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 				viewBox="0 0 294.843 294.843" style={{enablebackground: "new 0 0 294.843 294.843"}} xmlSpace="preserve">

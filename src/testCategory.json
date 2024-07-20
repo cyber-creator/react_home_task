@@ -1,0 +1,11 @@
+[
+    {
+    "id":2,"category_name":"soup","slug":"soup"
+    },
+    {
+        "id":1,"category_name":"sweets","slug":"sweets"
+    },
+    {
+        "id":3,"category_name":"vegetarian","slug":"vegetarian"
+    }
+]
